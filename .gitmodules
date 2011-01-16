@@ -1,0 +1,18 @@
+[submodule "system"]
+	path = system
+	url = https://github.com/kohana/core.git
+[submodule "membership"]
+	path = membership
+	url = git@github.com:Daniel15/Kohana-Membership.git
+[submodule "modules/membership"]
+	path = modules/membership
+	url = git@github.com:Daniel15/Kohana-Membership.git
+[submodule "modules/daniel15"]
+	path = modules/daniel15
+	url = git@github.com:Daniel15/Kohana-Daniel15.git
+[submodule "modules/database"]
+	path = modules/database
+	url = https://github.com/kohana/database.git
+[submodule "modules/orm"]
+	path = modules/orm
+	url = https://github.com/kohana/orm.git

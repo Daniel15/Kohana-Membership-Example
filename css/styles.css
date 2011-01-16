@@ -1,0 +1,55 @@
+body
+{
+	font-family: Calibri, Verdana, Arial, sans-serif;
+}
+
+p
+{
+	margin: 0.3em 0;
+	line-height: 1.4;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+#message
+{
+	border: 1px solid #BBCC00;
+	padding: 0.5em 0.5em 0.5em 23px;
+	background: #EDF0CC url(../img/icons/information.png) no-repeat 3px center;
+}
+
+#message img
+{
+	vertical-align: middle;
+}
+
+.error
+{
+	background-color: #F0CCCC;
+	border: 1px solid #C00;
+	margin: 0.5em 0;
+}
+
+.error p
+{
+	padding: 0.5em;
+	margin: 0;
+}
+
+.error p img
+{
+	vertical-align: middle;
+}
+
+.error ul
+{
+	margin-bottom: 1em;
+}
